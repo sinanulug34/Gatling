@@ -1,0 +1,61 @@
+{
+  "acquirerId": 123123,
+  "storeId": "string",
+  "merchantName": "string",
+  "webAddress": "string",
+  "businessStartDate": 0,
+  "merchantGroupId": 0,
+  "merchantType": "STANDARD",
+  "merchantCategoryCode": 0,
+  "hostId": 0,
+  "paymentIntegrationType": "THREED",
+  "posEntryMode": "MAIL_ORDER_012",
+  "ipAddress": "198.51.100.42",
+  "specialLabelId": 0,
+  "refundMaxDayCount": "string",
+  "preAuthMaxDayCount": "string",
+  "criteriaFirst": "string",
+  "criteriaSecond": "string",
+  "taxNumber": "string",
+  "reportTimeLimit": "string",
+  "extraInfo": "string",
+  "address": {
+    "postalAddressFirst": "string",
+    "postalAddressSecond": "string",
+    "postalAddressThird": "string",
+    "city": "string",
+    "postalCode": "string",
+    "state": "string",
+    "country": "string",
+    "phoneNumber": "string",
+    "fax": "string"
+  },
+  "cardBrands": {
+    "id": 0,
+    "name": "string"
+  },
+  "subMerchant": {
+    "terminalNumber": "string",
+    "subMerchantNumber": "string"
+  },
+  "paymentFacilitator": {
+    "facilitatorNumber": "string",
+    "saleOrganizationNumber": "string"
+  },
+  "contact": {
+    "name": "string",
+    "email": "user@example.com",
+    "technicalResponsibleFirst": {
+      "nameSurname": "string",
+      "merchantName": "string",
+      "email": "user@example.com",
+      "phoneNumber": "string"
+    },
+    "technicalResponsibleSecond": {
+      "nameSurname": "string",
+      "merchantName": "string",
+      "email": "user@example.com",
+      "phoneNumber": "string"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+RUN	MerchantSimulation	merchantsimulation	1574946609385	 	3.3.1
+USER	Get All Merchant	1	START	1574946610462	1574946610462
+USER	Get All Merchant	2	START	1574946611465	1574946611465
+USER	Get All Merchant	3	START	1574946612467	1574946612467
+REQUEST	1		Get Merchants	1574946610486	1574946612491	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	1	END	1574946610462	1574946612499
+USER	Get All Merchant	4	START	1574946613470	1574946613470
+REQUEST	2		Get Merchants	1574946611467	1574946613478	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	2	END	1574946611465	1574946613479
+USER	Get All Merchant	5	START	1574946614456	1574946614456
+REQUEST	3		Get Merchants	1574946612468	1574946614472	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	3	END	1574946612467	1574946614473
+USER	Get All Merchant	6	START	1574946615469	1574946615469
+REQUEST	4		Get Merchants	1574946613471	1574946615476	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	4	END	1574946613470	1574946615476
+REQUEST	5		Get Merchants	1574946614458	1574946616467	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	5	END	1574946614456	1574946616467
+USER	Get All Merchant	7	START	1574946616475	1574946616475
+USER	Get All Merchant	8	START	1574946617465	1574946617465
+REQUEST	6		Get Merchants	1574946615469	1574946617472	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	6	END	1574946615469	1574946617473
+USER	Get All Merchant	9	START	1574946618465	1574946618465
+REQUEST	7		Get Merchants	1574946616476	1574946618494	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	7	END	1574946616475	1574946618495
+USER	Get All Merchant	10	START	1574946619467	1574946619467
+REQUEST	8		Get Merchants	1574946617466	1574946619472	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	8	END	1574946617465	1574946619473
+USER	Get All Merchant	11	START	1574946620467	1574946620467
+REQUEST	9		Get Merchants	1574946618466	1574946620484	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	9	END	1574946618465	1574946620484
+USER	Get All Merchant	12	START	1574946621470	1574946621470
+REQUEST	10		Get Merchants	1574946619469	1574946621478	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	10	END	1574946619467	1574946621479
+USER	Get All Merchant	13	START	1574946622459	1574946622459
+REQUEST	11		Get Merchants	1574946620468	1574946622473	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	11	END	1574946620467	1574946622474
+USER	Get All Merchant	14	START	1574946623465	1574946623465
+REQUEST	12		Get Merchants	1574946621470	1574946623474	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	12	END	1574946621470	1574946623474
+USER	Get All Merchant	15	START	1574946624465	1574946624465
+REQUEST	13		Get Merchants	1574946622460	1574946624469	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	13	END	1574946622459	1574946624469
+USER	Get All Merchant	16	START	1574946625468	1574946625468
+REQUEST	14		Get Merchants	1574946623465	1574946625468	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	14	END	1574946623465	1574946625469
+USER	Get All Merchant	17	START	1574946626465	1574946626465
+REQUEST	15		Get Merchants	1574946624466	1574946626480	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	15	END	1574946624465	1574946626481
+USER	Get All Merchant	18	START	1574946627467	1574946627467
+REQUEST	16		Get Merchants	1574946625468	1574946627483	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	16	END	1574946625468	1574946627484
+USER	Get All Merchant	19	START	1574946628466	1574946628466
+REQUEST	17		Get Merchants	1574946626466	1574946628469	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	17	END	1574946626465	1574946628470
+USER	Get All Merchant	20	START	1574946629468	1574946629468
+REQUEST	18		Get Merchants	1574946627467	1574946629472	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	18	END	1574946627467	1574946629473
+REQUEST	19		Get Merchants	1574946628466	1574946630482	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	19	END	1574946628466	1574946630482
+REQUEST	20		Get Merchants	1574946629469	1574946631474	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+USER	Get All Merchant	20	END	1574946629468	1574946631474

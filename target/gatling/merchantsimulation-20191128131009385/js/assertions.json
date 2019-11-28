@@ -1,0 +1,10 @@
+{
+  "simulation": "MerchantSimulation",
+  "simulationId": "merchantsimulation",
+  "start": 1574946609385,
+  "description": "",
+  "scenarios": ["Get All Merchant"],
+  "assertions": [
+
+  ]
+}
